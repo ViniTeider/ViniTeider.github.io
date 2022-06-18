@@ -1,5 +1,5 @@
 body{
-    background-color: #fefae0;
+    background-color: #fefee4;
     margin-left: 0%;
     margin-right: 0%;
     margin-top: 0%;
@@ -61,13 +61,13 @@ header{
   align-items: center;
 }
 .primeiro_bloco h2{
-  color: #283618;
+  color: #1e394c;
   font-family: sans-serif;
   font-size: 200%;
   text-align: justify;
 }
 .primeiro_bloco h3{
-  color: #606c38;
+  color: #3e5e73;
   font-family: sans-serif;
   font-size: 100%;
   text-align: justify;
@@ -83,13 +83,13 @@ header{
   align-items: center;
 }
 .segundo_bloco h2{
-  color: #283618;
+  color: #1e394c;
   font-family: sans-serif;
   text-align: justify;
   font-size: 200%;
 }
 .segundo_bloco h3{
-  color: #606c38;
+  color: #3e5e73;
   font-family: sans-serif;
   font-size: 100%;
   text-align: justify;
@@ -104,13 +104,13 @@ header{
   align-items: center;
 }
 .terceiro_bloco h2{
-  color: #283618;
+  color: #1e394c;
   font-family: sans-serif;
   font-size: 200%;
   text-align: right;
 }
 .terceiro_bloco h3{
-  color: #606c38;
+  color: #3e5e73;
   font-family: sans-serif;
   font-size: 100%;
   text-align: justify;
